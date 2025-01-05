@@ -1,7 +1,0 @@
-[Desktop Entry]
-Name=Disk Manager
-Exec=nix_disk_manager
-StartupWMClass=nix_disk_manager
-Type=Application
-Icon=org.dupot.nix-disk-manager
-Categories=Utility
