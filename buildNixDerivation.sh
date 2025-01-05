@@ -1,0 +1,1 @@
+nix-build -A nix_disk_manager

@@ -1,0 +1,2 @@
+create a tag:
+git tag -a 0.0.1 -m "first version"
